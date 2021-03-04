@@ -1,2 +1,3 @@
 # repokroks
-s
+My first remote repository
+
